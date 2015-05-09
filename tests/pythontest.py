@@ -8,5 +8,5 @@ class PyUnitTestCases(unittest.TestCase):
   def test_02_case02(self):
     print """this is the second case"""
 
-if __name__ == '__main__':u
+if __name__ == '__main__':
   unittest.main()
